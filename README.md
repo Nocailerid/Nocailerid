@@ -7,6 +7,8 @@
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Welcome+to+NoCaller1's+Profile;I'm+a+Developer+and+Problem+Solver;Let's+Build+Something+Great+Together)](https://github.com/NoCaller1)
+
 
 
 
