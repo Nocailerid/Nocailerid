@@ -27,24 +27,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Languages and Tools
+
+#### **GitHub Stats**
+This can simulate error messages related to GitHub stats, making it look like debugging output.
+
+```markdown
+### GitHub Stats
 
 ```bash
-$ Error: Python environment not found
-$ Error: JavaScript compiler missing
-$ Error: TypeScript module loader issue
-$ Warning: HTML5 and CSS3 compatibility required
-$ Error: Node.js server failed to start
-$ Warning: React version mismatch detected
-$ Error: Django environment configuration error
-$ Error: Flask runtime error
-$ Warning: Git repository corrupted
-$ Info: GitHub API rate limit exceeded
-$ Error: VS Code extension failed to load
-$ Error: Docker container not found
-$ Info: Linux OS update required
-$ Error: MySQL server not responding
-$ Warning: MongoDB cluster offline
+$ Error: GitHub Stats API failed to fetch data
+$ Warning: Top Languages data incomplete
+$ Error: Streak Stats synchronization error
 
 
 
