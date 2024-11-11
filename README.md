@@ -5,11 +5,8 @@
 - 📫 How to reach me ...--->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=why+are+you+looking+at+my+profile)](https://github.com/NoCaller1)
 ### wow omg owowwow
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Welcome+to+NoCaller1's+Profile;I'm+a+Developer+and+Problem+Solver;Let's+Build+Something+Great+Together)](https://github.com/NoCaller1)
-
-
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -27,17 +24,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-
-#### **GitHub Stats**
-This can simulate error messages related to GitHub stats, making it look like debugging output.
-
-```markdown
-### GitHub Stats
-
-```bash
-$ Error: GitHub Stats API failed to fetch data
-$ Warning: Top Languages data incomplete
-$ Error: Streak Stats synchronization error
 
 
 
